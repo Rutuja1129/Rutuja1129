@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-- 🎓 Pursuing **BE in Computer Engineering** at D. Y. Patil Technical Campus, Talsande, Kolhapur.
+- 🎓 Pursuing **BTech in Computer Engineering** at D. Y. Patil Technical Campus, Talsande, Kolhapur.
 - 🐍 Currently learning **Python** and exploring its possibilities.
 - 🤖 Curious about **Artificial Intelligence, Full Stack Development, and new technologies**.
 - 🎨 I love turning random ideas into fun, creative websites using AI-powered tools.
